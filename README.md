@@ -1,7 +1,6 @@
-# Repo Pull Request 
-> by Edincodes
+# Repositorio Forks - Pull Request 
+> by edincodes and edinvd
 
-* Aplicar Forks
-* Hacer Pull Request
-
-Aplicar lo aprendido del curso de Git y Github
+* Aplicar Forks.
+* Hacer Pull Request.
+* Aplicar lo aprendido del curso.
