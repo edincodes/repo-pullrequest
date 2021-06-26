@@ -4,4 +4,4 @@
 * Aplicar Forks
 * Hacer Pull Request
 
-Aplicar lo del curso
+Aplicar lo aprendido del curso de Git y Github
