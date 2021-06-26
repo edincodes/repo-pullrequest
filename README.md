@@ -4,3 +4,7 @@
 * Aplicar Forks.
 * Hacer Pull Request.
 * Aplicar lo aprendido del curso.
+
+Esto es parte del trabajo en equipo 🤝
+
+Copyright © Todos los Derechos Reservados
